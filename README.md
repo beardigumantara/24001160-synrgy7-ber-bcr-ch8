@@ -1,4 +1,4 @@
-### SYNGY 7 BINAR CHALLENGE 08 FRONTEND BERDI GUMANTARA
+### SYNGY 7 BINAR CHALLENGE 08 BINAR CAR RENTAL BERDI GUMANTARA
 Deployment Binar Car Rental using SupaBase for db, koyeb for server, and vercer for the client
 
 
